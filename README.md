@@ -1,3 +1,4 @@
+index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,51 +32,3 @@
   </footer>
 </body>
 </html>
-
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background: #f4f4f4;
-  color: #333;
-}
-
-header {
-  background: #333;
-  color: white;
-  padding: 20px;
-  text-align: center;
-}
-
-nav a {
-  color: #fff;
-  margin: 0 10px;
-  text-decoration: none;
-}
-
-main {
-  padding: 20px;
-}
-
-footer {
-  text-align: center;
-  padding: 10px;
-  background: #eee;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
-# My Personal Website
-
-This is a simple HTML + CSS website created as a personal homepage.
-
-## Features
-- Responsive layout
-- Basic navigation
-- About section
-
-## How to Use
-Open `index.html` in any web browser or deploy it using GitHub Pages.
-
-## License
-MIT
