@@ -11,7 +11,7 @@ index.html
 <body>
   <header>
     <h1>Welcome to My Website</h1>
-    <p>Hello! I'm [Your Name], and this is my personal website.</p>
+    <p>Hello! I'm [koushik], and this is my personal website.</p>
     <nav>
       <a href="#">Home</a>
       <a href="#">About</a>
